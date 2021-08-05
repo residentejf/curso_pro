@@ -13,3 +13,4 @@ class PruebaListView(ListView):
     #model = MODEL_NAME
     template_name = "home/lista.html"
     #queryset =
+  ################# esta es una prueba para subir esta cagaa
